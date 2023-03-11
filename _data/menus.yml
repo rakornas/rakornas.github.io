@@ -4,15 +4,18 @@ main:
   - name: "| Rangkaian Kegiatan |"
     url: "/kegiatan-rakornas/"
     weight: 2
-  - name: "| Tim Kami |"
-    url: "/team/"
-    weight: 3
   - name: "| Tentang Rakornas |"
     url: "/about/"
+    weight: 3
+  - name: "| Dokumentasi |"
+    url: "/documentation/"
     weight: 4
+  - name: "| Tim Kami |"
+    url: "/team/"
+    weight: 5
   - name: "| Hubungi Kami |"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "| Home |"
