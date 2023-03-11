@@ -1,4 +1,6 @@
 main:
+  - name: "Home"
+    url: "https://rakornas.github.io"
   - name: "Services"
     url: "/services/"
     weight: 2
