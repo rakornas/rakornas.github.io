@@ -1,5 +1,5 @@
 ---
-title: Rakornas PA 2023
+title: Rangkaian Kegiatan Rakornas PA 2023
 layout: services
 description: Rakornas PA 2023
 intro_image: "images/illustrations/reading.svg"
