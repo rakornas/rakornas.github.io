@@ -1,8 +1,8 @@
 main:
   - name: "Home"
     url: "https://rakornas.github.io"
-  - name: "Services"
-    url: "/services/"
+  - name: "Rangkaian Kegiatan"
+    url: "/kegiatan-rakornas/"
     weight: 2
   - name: "Team"
     url: "/team/"
