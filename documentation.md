@@ -1,6 +1,6 @@
 ---
 title: Dokumentasi Rakornas PA
-layout: services
+layout: documentations
 description: Dokumentasi Rakornas PA
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
