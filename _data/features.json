@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Biaya Rp0,-",
+    "description": "Seluruh kegiatan Rakornas PA tidak dipungut biaya.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Zona Integritas WBK",
+    "description": "Direktorat Pelaksanaan Anggaran telah menerapkan Zona Integritas menuju Wilayah Bebas dari Korupsi",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "PASTI...!",
+    "description": "Direktorat Pelaksanaan Anggaran memberikan pelayanan secara PASTI: Profesional, Amanah, Solutif, Terpercaya, dan Inovatif.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
