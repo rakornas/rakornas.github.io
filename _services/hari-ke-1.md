@@ -1,5 +1,5 @@
 ---
-title: "Rakornas PA Hari Ke-1 - Stakeholder Day"
+title: "Hari Ke-1: Stakeholder Day"
 date: 23-03-11
 weight: 1
 ---
