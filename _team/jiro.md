@@ -2,10 +2,10 @@
 title: "Jiro"
 date: 2023-03-11
 image: "images/team/jiro.jpg"
-jobtitle: "Tim Materi"
+jobtitle: "Web Developer"
 linkedinurl: ""
 promoted:
 weight: 3
 ---
 
-Pratig Ajirogo
+Yang buat laman web ini..
