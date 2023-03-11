@@ -1,12 +1,12 @@
 ---
-title: Services
+title: Rakornas PA 2023
 layout: services
-description: Services
+description: Rakornas PA 2023
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Ikuti Rangkaian Acara Rakornas PA 2023
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Ikuti dari hari ke-1 sampai hari ke-3....
