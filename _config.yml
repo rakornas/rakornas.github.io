@@ -31,6 +31,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "documentations"
+    values:
+      layout: "documentation"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
