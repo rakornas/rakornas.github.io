@@ -18,6 +18,6 @@ footer:
   - name: "| Home |"
     url: "/"
     weight: 1
-  - name: "| Contact |"
+  - name: "| Hubungi Kami |"
     url: "/contact/"
     weight: 2
