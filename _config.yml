@@ -11,7 +11,7 @@ logo:
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_services: 3
 
 collections:
   services:
