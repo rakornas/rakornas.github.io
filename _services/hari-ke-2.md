@@ -1,5 +1,5 @@
 ---
-title: "Rakornas PA Hari Ke-2 - Coaching Clinic"
+title: "Hari Ke-2: Coaching Clinic"
 date: 23-03-11
 weight: 2
 ---
