@@ -1,5 +1,5 @@
 <div class="social">
   {% for item in site.data.social %}
-  Sosial media kami: </br><a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+  Sosial media kami: <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
   {% endfor %}
 </div>
