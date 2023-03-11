@@ -1,5 +1,5 @@
 ---
-title: "Hari Ke-1: Puncak Rakornas PA"
+title: "Hari Ke-3: Puncak Rakornas PA"
 date: 23-03-11
 weight: 3
 ---
