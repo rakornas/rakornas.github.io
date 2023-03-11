@@ -1,23 +1,23 @@
 main:
-  - name: "Home"
+  - name: "| Home |"
     url: "https://rakornas.github.io"
-  - name: "Rangkaian Kegiatan"
+  - name: "| Rangkaian Kegiatan |"
     url: "/kegiatan-rakornas/"
     weight: 2
-  - name: "Team"
+  - name: "| Tim Kami |"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "| Tentang Rakornas |"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "| Hubungi Kami |"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "| Home |"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "| Contact |"
     url: "/contact/"
     weight: 2
